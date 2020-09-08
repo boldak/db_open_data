@@ -1,11 +1,11 @@
 # Система управління відкритими даними
 
 # Команда:
-<br/>Андрейцов Ярослав yarikkgg@gmail.com
-<br/>Биков Єгор Kaciiuahbi4@gmai.com
-<br/>Денисенко Михайло midenisenko@gmail.com
-<br/>Кармазін Назар karmazinnazar@gmail.com
-<br/>Тимошенко Діана ausherika@gmail.com
+<br/>*Андрейцов Ярослав* yarikkgg@gmail.com
+<br/>*Биков Єгор* Kaciiuahbi4@gmai.com
+<br/>*Денисенко Михайло* midenisenko@gmail.com
+<br/>*Кармазін Назар* karmazinnazar@gmail.com
+<br/>*Тимошенко Діана* ausherika@gmail.com
 
 
 [Теми проєктів](./guidelines/themes.md)
