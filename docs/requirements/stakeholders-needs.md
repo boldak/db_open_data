@@ -45,7 +45,7 @@ https://uk.wikipedia.org/
 
 ## <a name="work-process"></a> Характеристика ділових процесів
 
-![alt text](/Diagram.jpg "Open data management system")
+![alt text](./Diagram.jpg "Open data management system")
 
 *[В цьому розділі визначаються зовнішні фактори, що впливають на бізнес (бізнес-актори), 
 та внутрішні фактори (робітники), дається загальна характеристика діяльності бізнес-акторів 
