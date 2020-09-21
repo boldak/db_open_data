@@ -1,7 +1,7 @@
 # Система управління відкритими даними
-<p
-![alt text](/title.jpg "Описание будет тут")
-</p>
+
+![alt text](/title.jpg "Open data management system")
+
 
 - Authors:
   - Андрейцов Ярослав  yarikkgg@gmail.com
