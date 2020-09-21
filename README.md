@@ -10,6 +10,7 @@
   - Кармазін Назар     karmazinnazar@gmail.com
   - Тимошенко Діана    ausherika@gmail.com
 
+[Документація](./docs)
 
 [Теми проєктів](./guidelines/themes.md)
 
