@@ -37,6 +37,8 @@
 
 - СУВД - Система Управління Відкритими Даними
 
+[Див. далі](./requirements/state-of-the-art.md)
+
 ### <a name="links"></a> Посилання
 
 https://uk.wikipedia.org/
