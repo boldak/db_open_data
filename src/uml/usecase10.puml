@@ -8,7 +8,7 @@ actor :Модератор: as Moder
 actor :Користувач: as User
 
 usecase "<b>UC_1</b>\nВідповісти на коментар \nкорисувача" as UC_1
-usecase "<b>UC_2</b>\nПриховати набір даних" as UC_2
+usecase "<b>UC_2</b>\nВидалити набір даних" as UC_2
 usecase "<b>UC_3</b>\nДодати нового модератора" as UC_3
 
 usecase "<b>UC_4</b>\nДодати новий набір даних" as UC_4
