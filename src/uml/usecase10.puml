@@ -1,6 +1,6 @@
 @startuml
 right header
-        <font size=24 color=black>Package: <b>UCD_1.1
+        <font size=24 color=black>Package: <b>UCD_1.0
     end header
 
 actor :Адміністратор: as Admin
